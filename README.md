@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/hachichaeya/hachichaeya/blob/main/347239016_599072162203542_1480502831704564289_n.jpg))
+![logo]([https://github.com/hachichaeya/hachichaeya/blob/main/347239016_599072162203542_1480502831704564289_n.jpg])
 <h1 align="center">Hi 👋, I'm Eya Hachicha</h1>
 <b><h3 align="center">I'm currently a computer science enthusiast from Tunisia</h3></b>
 <br>The realms of deep learning, machine learning, computer vision, and NLP have all captured my fervent interest.
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [[https://linktr.ee/simplified_learner](https://github.com/hachichaeya)]
 
 - ⚡ Fun fact **I am funny😅**
 
@@ -21,9 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
