@@ -1,23 +1,48 @@
-![logo](https://github.com/hachichaeya/hachichaeya/blob/main/347239016_599072162203542_1480502831704564289_n.jpg)
-<h1 align="center">Hi 👋, I'm Eya Hachicha</h1>
-<b><h3 align="center">I'm currently a computer science enthusiast from Tunisia</h3></b>
-<br>The realms of deep learning, machine learning, computer vision, and NLP have all captured my fervent interest.
+<h1 align="center">
+<br>
+<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
+  <br/>
+  <a href="https://github.com/ahlem-phantom">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software+Developer" alt="EyaHachicha" /></a>
+  
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-
-- 👨‍💻 All of my projects are available at [[https://linktr.ee/simplified_learner](https://github.com/hachichaeya)]
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/eya-hachicha-0694a6232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 </p>
+<h4 align="center">
+Greetings, developers Greetings from my GitHub profile. You are welcome to copy any of my work, and if you think there is potential for improvement, please offer feedback. Contact me at any time if you have any inquiries or recommendations.
+  Thank you for visiting!
+ <br>
+ 😊
+</h4> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+## :hand: About Me
+
+
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img width="21%" align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+
+- 🔭 I’m currently studying at ENIS National School Of Engineers Of Sfax
+  
+- 🌱 I’m currently learning various aspects of data science, including deep learning, machine learning, computer vision, and natural language processing (NLP).
+  
+- 👯 I’m looking to collaborate on open Source Project and to work as freelancer
+  
+- ⚡ Fun fact: I AM A DREAMER
+
+## 🚀 Skills
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,angular,dotnet,mysql,git,maven,eclipse,vscode" />
+  </a>
+  
+## :chart_with_upwards_trend: My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hachichaeya&show_icons=true&theme=radical" /><br/>
+<img src="https://streak-stats.demolab.com/?user=hachichaeya&theme=dark" />
+
+
+## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
+
+- Sharing updates on : <a href="https://www.linkedin.com/in/eya-hachicha-0694a6232/">LinkedIn</a> 💼
+- Reach me on : <a href="mailto:eya.hachicha@enis.tn"> Gmail </a> ✍🏾
+<br> 
+ <br>
