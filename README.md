@@ -3,7 +3,7 @@
 <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
   <br/>
   <a href="https://github.com/ahlem-phantom">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software+Developer" alt="EyaHachicha" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hello%2C+I%27m+Eya;Software+Developer" alt="EyaHachicha" /></a>
   
 </h1>
 
