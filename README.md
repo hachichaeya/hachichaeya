@@ -1,4 +1,4 @@
-![logo]([https://github.com/hachichaeya/hachichaeya/blob/main/347239016_599072162203542_1480502831704564289_n.jpg])
+![logo](https://github.com/hachichaeya/hachichaeya/blob/main/347239016_599072162203542_1480502831704564289_n.jpg)
 <h1 align="center">Hi 👋, I'm Eya Hachicha</h1>
 <b><h3 align="center">I'm currently a computer science enthusiast from Tunisia</h3></b>
 <br>The realms of deep learning, machine learning, computer vision, and NLP have all captured my fervent interest.
