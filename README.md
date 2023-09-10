@@ -36,8 +36,12 @@ Greetings, developers Greetings from my GitHub profile. You are welcome to copy 
   </a>
   
 ## :chart_with_upwards_trend: My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hachichaeya&show_icons=true&theme=radical" /><br/>
-<img src="https://streak-stats.demolab.com/?user=hachichaeya&theme=dark" />
+![](https://github-readme-stats.vercel.app/api?username=hachichaeya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hachichaeya&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hachichaeya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hachichaeya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
